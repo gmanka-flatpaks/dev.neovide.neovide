@@ -1,6 +1,6 @@
-id: dev.neovide.Neovide
+id: dev.neovide.neovide
 runtime: org.freedesktop.Platform
-runtime-version: "23.08"
+runtime-version: "24.08"
 sdk: org.freedesktop.Sdk
 command: neovide
 finish-args:
@@ -228,3 +228,4 @@ modules:
         url: https://github.com/sqwxl/neovide/releases/download/0.12.3/neovide-linux-x86_64.tar.gz
         sha256: 2307e7c9599f3e32dfbd61054e49ed1c41945a399286a75b52a5d3bc0bdd021a
         strip-components: 0
+
